@@ -1,0 +1,12 @@
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.CheckOutForm.resources
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.Form1.resources
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.Properties.Resources.resources
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.RestaurantForm.resources
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\bin\Debug\LivePerformanceImplementation.exe.config
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\bin\Debug\LivePerformanceImplementation.exe
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\bin\Debug\LivePerformanceImplementation.pdb
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.exe
+C:\Users\krish\source\repos\LivePerformanceImplementation\LivePerformanceImplementation\obj\Debug\LivePerformanceImplementation.pdb
